@@ -1,0 +1,33 @@
+{
+  "campers": [
+    {
+      "name": "Junior",
+      "age": "15",
+      "phone": "3107929053",
+      "email": "juniorcarvajalino1213@gmail.com",
+      "adress": "asdasd",
+      "birth": "2023-12-31",
+      "idNumber": "1098643516",
+      "entry": "2023-12-31",
+      "teamId": 1,
+      "id": 1
+    }
+  ],
+  "teams": [
+    {
+      "name": "Sputnik",
+      "trainer": "Miguel",
+      "id": 1
+    },
+    {
+      "name": "Artemis",
+      "trainer": "Verme",
+      "id": 2
+    },
+    {
+      "name": "Apollo",
+      "trainer": "Jholver",
+      "id": 3
+    }
+  ]
+}
