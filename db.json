@@ -2,14 +2,14 @@
   "campers": [
     {
       "name": "Daniel Fernandez",
-      "age": "19",
+      "age": "15",
       "phone": "3107929053",
       "email": "juniorcarvajalino1213@gmail.com",
       "adress": "cra 4 #7-15",
       "birth": "2023-12-31",
       "idNumber": "1098643516",
       "entry": "2023-12-31",
-      "teamId": 1,
+      "teamId": 3,
       "id": 1
     }
   ],

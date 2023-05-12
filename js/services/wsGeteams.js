@@ -14,14 +14,19 @@ let ws ={
             </h2>
             <div id="${name}" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
               <div class="accordion-body">
+                  <h5>Trainer: ${element.trainer}</h5>
+                  <h6>Students:</h6>
+                  <div id="${element.trainer}">
 
+                  </div> 
               </div>
             </div>
           </div>`
           return html
         });
         return html
-    }
+    },
+
 }
 self.addEventListener("message", async (e)=>{
     postMessage(await ws[e.data.module](e.data.data))

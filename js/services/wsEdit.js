@@ -19,8 +19,8 @@ let ws = {
               <select class="forminput"  name="teamId" required>
                   <option value="" selected>Select Camper's team</option>
                   <option value="1">Sputnik</option>
-                  <option value="2">Apollo</option>
-                  <option value="3">Artemis</option>
+                  <option value="2">Artemis</option>
+                  <option value="3">Apollo</option>
               </select>
               <button type="submit" class="forminput">Finish</button>
           </form>
